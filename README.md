@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-<img src="img/map_image.jpg"  height="300"> 
+<img src="img/map_image.jpg" width="500" height="300"> 
