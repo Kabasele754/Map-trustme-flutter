@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/achille/Desktop/map_trustme/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
+            "outputFile": "/home/achille/Desktop/project/Map-trustme-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml",
             "map": [
                 {
                     "source": "/home/achille/.gradle/caches/transforms-3/601d4158b382ad9f634d3bbb23a34c83/transformed/jetified-play-services-basement-18.0.0/res/values-el/values.xml",
